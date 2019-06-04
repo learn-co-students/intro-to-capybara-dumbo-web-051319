@@ -6,6 +6,7 @@ In this lesson, we'll discuss integration testing with Capybara.
 
 ## Objectives
 
+
 1.  Define an integration test and compare it to unit and controller tests.
 2.  Use Capybara for integration tests by including it in the testing environment.
 3.  Use the Capybara methods `visit` and `page` when writing tests.
@@ -598,4 +599,3 @@ We learned about:
 Great job!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/intro-to-capybara'>Intro to Capybara Tests</a> on Learn.co and start learning to code for free.</p>
-
